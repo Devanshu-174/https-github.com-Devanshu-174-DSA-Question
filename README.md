@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
