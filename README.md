@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
