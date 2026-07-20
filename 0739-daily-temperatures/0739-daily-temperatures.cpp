@@ -12,9 +12,6 @@ public:
                 st.pop();
             }
             st.push(i);
-            if(st.empty()){
-                ans[i]=0;
-            }
         }
         return ans;
     }
