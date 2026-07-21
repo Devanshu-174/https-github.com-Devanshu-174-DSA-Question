@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -67,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
