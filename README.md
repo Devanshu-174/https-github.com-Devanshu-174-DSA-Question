@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2390-removing-stars-from-a-string) |
@@ -93,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
