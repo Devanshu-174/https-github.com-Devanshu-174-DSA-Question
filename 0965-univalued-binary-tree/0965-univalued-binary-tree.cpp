@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-    bool solver(TreeNode* root,const int value){
+    bool solver(TreeNode* root,int value){
         if(root==NULL){
             return true;
         }
@@ -24,7 +24,7 @@ public:
     }
 
     bool isUnivalTree(TreeNode* root) {
-        const int value=root->val;
+        int value=root->val;
         return solver(root,value);
     }
 };
