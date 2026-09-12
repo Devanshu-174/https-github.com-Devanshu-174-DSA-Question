@@ -18,11 +18,11 @@ public:
         int rightHt=minDepth(root->right);
 
         if(leftHt==0){
-            return leftHt=rightHt+1;
+            return rightHt+1;
         }
 
         if(rightHt==0){
-            return rightHt=leftHt+1;
+            return leftHt+1;
         }
 
         return min(leftHt,rightHt)+1;
