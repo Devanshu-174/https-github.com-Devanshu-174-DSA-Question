@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0700-search-in-a-binary-search-tree) |
