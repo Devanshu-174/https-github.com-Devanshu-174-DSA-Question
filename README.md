@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0222-count-complete-tree-nodes) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0113-path-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
