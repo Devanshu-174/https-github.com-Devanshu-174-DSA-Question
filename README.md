@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
@@ -306,4 +309,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
