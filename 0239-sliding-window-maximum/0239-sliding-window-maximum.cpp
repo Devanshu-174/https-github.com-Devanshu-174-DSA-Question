@@ -10,10 +10,10 @@ public:
        ans.push_back(pq.top().first);
 
        for(int i=k;i<nums.size();i++){
-            pq.push({nums[i],i});
-            while(pq.top().second<(i-k+1)){
+            while(!pq.empty() && pq.top().second<(i-k+1)){
                 pq.pop();
             }
+            pq.push({nums[i],i});
             ans.push_back(pq.top().first);
        }
 
