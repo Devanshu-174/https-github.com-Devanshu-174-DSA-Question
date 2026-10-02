@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
