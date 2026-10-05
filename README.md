@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
