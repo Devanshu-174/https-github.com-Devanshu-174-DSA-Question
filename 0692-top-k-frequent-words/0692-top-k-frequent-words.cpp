@@ -5,9 +5,9 @@ class compare{
 public:
     bool operator()(pair<string,int> p1,pair<string,int> p2){
         if(p1.second==p2.second){
-            return p1.first > p2.first;
+            return p1.first < p2.first;
         }
-        return p1.second<p2.second;
+        return p1.second>p2.second;
     }
 };
 
@@ -28,17 +28,27 @@ public:
             }
         }
 
-        for(auto f : freq){
-            pq.push({f.first,f.second});
+        for(const auto& [word, count] : freq){
+            if  (pq.size() == k &&
+                (count > pq.top().second ||
+                (count == pq.top().second && word < pq.top().first))) {
+                    pq.pop();
         }
 
-        int i=1;
+            if(pq.size()!=k){
+                pq.push({word,count});
+            }
+        }
+        
         vector<string> ans;
-        while(i<=k){
+
+        while(!pq.empty()){
             ans.push_back(pq.top().first);
             pq.pop();
-            i++;
         }
+
+        reverse(ans.begin(),ans.end());
+
         return ans;
     }
 };
