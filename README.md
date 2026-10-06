@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0394-decode-string) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
@@ -351,8 +357,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
