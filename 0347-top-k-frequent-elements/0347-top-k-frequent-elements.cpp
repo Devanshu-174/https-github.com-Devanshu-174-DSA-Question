@@ -4,7 +4,7 @@ public:
     class Compare {
 public:
     bool operator()(pair<int,int> a, pair<int,int> b) {
-        return a.second < b.second;
+        return a.second > b.second;
     }
 };
 
@@ -25,16 +25,20 @@ public:
             }
         }
 
-        for(auto f : freq){
-            pq.push({f.first,f.second});
+        for(const auto& [num, count] : freq){
+            if(pq.size() == k && count > pq.top().second) {
+                pq.pop();
+            }
+
+            if(pq.size()!=k){
+                pq.push({num,count});
+            }
         }
 
-        int i=1;
         vector<int> ans;
-        while(i<=k){
+        while(!pq.empty()){
             ans.push_back(pq.top().first);
             pq.pop();
-            i++;
         }
         return ans;
     }
