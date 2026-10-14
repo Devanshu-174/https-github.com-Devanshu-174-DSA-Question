@@ -118,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2390-removing-stars-from-a-string) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
