@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2073-time-needed-to-buy-tickets) |
