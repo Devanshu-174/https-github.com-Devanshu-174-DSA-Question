@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1200-minimum-absolute-difference) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1382-balance-a-binary-search-tree) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Math
