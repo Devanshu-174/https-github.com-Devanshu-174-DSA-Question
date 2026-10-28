@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1382-balance-a-binary-search-tree) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Math
