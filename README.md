@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0455-assign-cookies) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0692-top-k-frequent-words) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0506-relative-ranks) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Devanshu-174/https-github.com-Devanshu-174-DSA-Question/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
